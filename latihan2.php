@@ -27,7 +27,7 @@
     echo $x + $y;
 
     // PHP konstanta 
-    define("nama_konstanta", "erlina");
+    define("nama_konstanta", "ardha");
     echo "<br>" . nama_konstanta;
 
     ?>
